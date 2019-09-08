@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Midterm 07590628</string>
+    <string name="password">Password</string>
+    <string name="logintofacebook">Login To Facebook</string>
+    <string name="username">Username</string>
+    <string name="promlertlovichit" translatable="false">Promlert Lovichit</string>
+    <string name="AddToStory">Add To Story</string>
+    <string name="ViewAs">View As</string>
+    <string name="Frome">Frome</string>
+    <string name="Livein">Live in</string>
+    <string name="Goesto">Goes to</string>
+    <string name="EditProfile">Edit Profile</string>
+
+</resources>

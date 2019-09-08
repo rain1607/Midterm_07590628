@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AddToStory">เพิ่มในสตอรี่</string>
+    <string name="EditProfile">แก้ไขโปรไฟล์</string>
+    <string name="Frome">จาก</string>
+    <string name="Goesto">เคยศึกษาที่</string>
+    <string name="Livein">อาศัยอยู่ที่</string>
+    <string name="ViewAs">ดูในมุมมองของ</string>
+    <string name="logintofacebook">ลงชื่อเข้าใช้เฟสบุ๊ค</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="username">ชื่อผู้ใช้งาน</string>
+</resources>
